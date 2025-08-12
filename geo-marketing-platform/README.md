@@ -2,6 +2,12 @@
 
 A comprehensive AI-powered marketing content generation and optimization platform that implements Generative Engine Optimization (GEO) techniques to create high-performing marketing content.
 
+## 📖 Overview
+The GEO Marketing Platform leverages advanced AI models to automate content creation, keyword research, and SEO optimization. It integrates seamlessly with Sitecore XM Cloud for direct content publishing and management, enabling marketers to enhance their content strategies efficiently.
+![GEO Marketing Platform](https://fmzz4o5twqka27oy.public.blob.vercel-storage.com/etc./geo.JPG)
+![GEO Dashboard](https://fmzz4o5twqka27oy.public.blob.vercel-storage.com/etc./geo-dashboard.JPG)
+
+
 ## 🚀 Features
 
 ### Core Capabilities
