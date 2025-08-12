@@ -1,4 +1,4 @@
-# GEO Marketing Platform
+# Generative Engine Optimization [GEO] Marketing Platform
 
 A comprehensive AI-powered marketing content generation and optimization platform that implements Generative Engine Optimization (GEO) techniques to create high-performing marketing content.
 
